@@ -3070,7 +3070,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(53, 56, 73, 0);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3085,7 +3085,7 @@ input, select, textarea {
 			-moz-transition: opacity 0.2s ease-in-out, visibility 0.2s;
 			-webkit-transition: opacity 0.2s ease-in-out, visibility 0.2s;
 			-ms-transition: opacity 0.2s ease-in-out, visibility 0.2s;
-			transition: opacity 0.2s ease-in-out, visibility 0.2s;
+			transition: opacity 0s ease-in-out, visibility 0s;
 			border-bottom: 0;
 			font-size: 0.8em;
 			margin-bottom: 0;
